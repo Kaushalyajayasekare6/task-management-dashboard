@@ -39,7 +39,7 @@ Users can **create, edit, delete tasks**, and set **priority levels** in a clean
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/task-management-dashboard.git
+git clone[ https://github.com/yourusername/task-management-dashboard.git](https://github.com/Kaushalyajayasekare6/task-management-dashboard.git)
 cd task-management-dashboard
 ````
 
